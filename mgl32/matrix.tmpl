@@ -10,7 +10,7 @@ package mgl32
 import (
 	"bytes"
 	"fmt"
-	"golang.org/x/image/math/f32"
+	"github.com/golang/image/math/f32"
 	"text/tabwriter"
 )
 
