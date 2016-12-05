@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/go-gl/mathgl/mgl32"
+	"github.com/duoyume/mathgl/mgl32"
 )
 
 // A transform stack is a linear fully-persistent data structure of matrix multiplications
