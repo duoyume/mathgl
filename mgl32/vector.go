@@ -8,7 +8,7 @@
 package mgl32
 
 import (
-	"golang.org/x/image/math/f32"
+	"github.com/golang/image/math/f32"
 	"math"
 )
 
