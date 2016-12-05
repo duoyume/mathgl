@@ -12,7 +12,7 @@ package mgl64
 import (
 	"math"
 
-	"golang.org/x/image/math/f64"
+	"github.com/golang/image/math/f64"
 )
 
 type Vec2 f64.Vec2
