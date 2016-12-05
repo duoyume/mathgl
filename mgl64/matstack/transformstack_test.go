@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-gl/mathgl/mgl64"
+	"github.com/duoyume/mathgl/mgl64"
 )
 
 func TestStackNew(t *testing.T) {
