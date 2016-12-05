@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"text/tabwriter"
 
-	"golang.org/x/image/math/f64"
+	"github.com/golang/image/math/f64"
 )
 
 type Mat2 [4]float64
